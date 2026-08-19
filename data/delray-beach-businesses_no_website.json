@@ -1,0 +1,85 @@
+[
+  {
+    "name": "Joe's Air Conditioning & Heating Delray Beach",
+    "place_id": "ChIJqZ4Ld8Af2YgRVlhF67Q-ADw",
+    "address": "4304 Frances Dr, Delray Beach, FL 33445, USA",
+    "phone": "(561) 285-0540",
+    "rating": 5.0,
+    "review_count": 12,
+    "business_type": "general_contractor"
+  },
+  {
+    "name": "JDL Electrical & Generator Services",
+    "place_id": "ChIJ___bxS4g2YgRb3SsfmVnbYk",
+    "address": "6000 W Atlantic Ave, Delray Beach, FL 33484, USA",
+    "phone": "(561) 637-8269",
+    "rating": 5.0,
+    "review_count": 105,
+    "business_type": "store"
+  },
+  {
+    "name": "River Stone Roof Depot",
+    "place_id": "ChIJa9pJM0Hf2IgRGeF4p4qWrIs",
+    "address": "519 SW 6th St, Delray Beach, FL 33444, USA",
+    "phone": "(561) 823-3006",
+    "rating": 4.9,
+    "review_count": 37,
+    "business_type": "roofing_contractor"
+  },
+  {
+    "name": "Quick Pressure Cleaning",
+    "place_id": "ChIJc4ms9Crh2IgRtAebBFAVqNg",
+    "external_profile_url": "https://www.instagram.com/quick_pressure_cleaning?igsh=MTI3cmhmOXozNmlr&utm_source=qr",
+    "address": "2955 SW 22nd Ave #101, Delray Beach, FL 33445, USA",
+    "phone": "(561) 853-5496",
+    "rating": 5.0,
+    "review_count": 9,
+    "business_type": "service"
+  },
+  {
+    "name": "Hermitage Private Hair Suite by Olivia",
+    "place_id": "ChIJJXCKf0kh2YgRREpyptST9ig",
+    "address": "Phenix Salon Suites, 14545 S Military Trl Ste 103, Delray Beach, FL 33484, USA",
+    "phone": "(407) 914-3771",
+    "rating": 5.0,
+    "review_count": 93,
+    "business_type": "hair_salon"
+  },
+  {
+    "name": "Riot Hair Lounge LLC",
+    "place_id": "ChIJT7beZPTf2IgRnXFwoPlGubI",
+    "external_profile_url": "https://www.vagaro.com/us03/riothairlounge?gad_source=1&gclid=CjwKCAjw1K-zBhBIEiwAWeCOF5gUljT-28b8deOiO2NGIqb5B38uvvC6RQ4yWKkzcZ7bMOHxKpeM_RoCIJkQAvD_BwE",
+    "address": "600 N Congress Ave Ste 240, Delray Beach, FL 33445, USA",
+    "phone": "(561) 808-8305",
+    "rating": 4.8,
+    "review_count": 92,
+    "business_type": "hair_salon"
+  },
+  {
+    "name": "Elite Auto Services of Delray Beach",
+    "place_id": "ChIJOXwTBxrh2IgRRNmAkchtVgg",
+    "address": "1 Linton Blvd #3, Delray Beach, FL 33444, USA",
+    "phone": "(561) 455-4427",
+    "rating": 4.8,
+    "review_count": 84,
+    "business_type": "car_repair"
+  },
+  {
+    "name": "Oscar\u2019s Auto Repair",
+    "place_id": "ChIJSziqN4zf2IgRrHpa-dNI1TM",
+    "address": "41 N Congress Ave #8A, Delray Beach, FL 33445, USA",
+    "phone": "(561) 276-0246",
+    "rating": 4.8,
+    "review_count": 22,
+    "business_type": "car_repair"
+  },
+  {
+    "name": "George's & Alpha Auto center",
+    "place_id": "ChIJIYEqFvff2IgR4_XdU5zcalE",
+    "address": "210 N Congress Ave, Delray Beach, FL 33445, USA",
+    "phone": "(561) 401-6941",
+    "rating": 4.6,
+    "review_count": 133,
+    "business_type": "car_repair"
+  }
+]

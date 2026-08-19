@@ -1,0 +1,39 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "seo-opportunity-finder"
+version = "0.1.0"
+description = "Evidence-first local business SEO opportunity finder"
+readme = "readme.md"
+requires-python = ">=3.9"
+dependencies = [
+  "beautifulsoup4>=4.12,<5",
+  "fastapi>=0.115,<1",
+  "httpx>=0.27,<1",
+  "pydantic>=2.8,<3",
+  "pydantic-settings>=2.4,<3",
+  "typer>=0.12,<1",
+  "uvicorn>=0.30,<1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<9", "pytest-asyncio>=0.23,<1", "ruff>=0.6,<1"]
+
+[project.scripts]
+seo-finder = "seo_finder.cli:app"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/seo_finder"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+ignore = ["B008", "FA100", "FLY002", "UP045"]

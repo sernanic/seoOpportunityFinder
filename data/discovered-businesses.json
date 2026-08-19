@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Magnolia Jane Salon AVEDA",
+    "place_id": "ChIJO-_owr3RqIkRyQlwrOyTnhU",
+    "website": "http://www.magnoliajsalon.com/",
+    "address": "236D Middle St, New Bern, NC 28560, USA",
+    "phone": "(252) 514-4867",
+    "rating": 4.7,
+    "review_count": 182,
+    "business_type": "hair_salon"
+  },
+  {
+    "name": "The Salon On Middle",
+    "place_id": "ChIJp5jLmBfRqIkRy7auJBdfp6Q",
+    "website": "https://the-salon-on-middle.sintra.site/",
+    "address": "220 Middle St, New Bern, NC 28560, USA",
+    "phone": "(252) 241-8116",
+    "rating": 4.6,
+    "review_count": 223,
+    "business_type": "hair_salon"
+  },
+  {
+    "name": "Halo Salon",
+    "place_id": "ChIJt6v7pl7bqIkRZUFG2ma1Mj8",
+    "website": "http://www.halosalonnewbern.com/",
+    "address": "2030 Waterscape Wy, New Bern, NC 28562, USA",
+    "phone": "(252) 631-3211",
+    "rating": 4.9,
+    "review_count": 312,
+    "business_type": "hair_salon"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Magnolia J Salon",
+    "website": "https://www.magnoliajsalon.com/",
+    "address": "New Bern, NC",
+    "phone": "252-555-0100",
+    "rating": 4.7,
+    "review_count": 182,
+    "business_type": "hair salon"
+  },
+  {
+    "name": "Halo Salon",
+    "website": "https://halosalonnewbern.com/",
+    "address": "New Bern, NC",
+    "phone": "252-555-0100",
+    "rating": 4.9,
+    "review_count": 312,
+    "business_type": "hair salon"
+  },
+  {
+    "name": "ffd Salon",
+    "website": "https://book.squareup.com/appointments/fjdfyapm4vmzig/location/L86YVV9A2K16W/services",
+    "address": "New Bern, NC",
+    "phone": "252-555-0100",
+    "rating": 4.9,
+    "review_count": 52,
+    "business_type": "hair salon"
+  }
+]
